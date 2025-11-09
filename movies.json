@@ -1,0 +1,37 @@
+[
+  {
+    "tytuł": "Incepcja",
+    "rok": 2010,
+    "gatunek": "Sci-Fi",
+    "ocena": 9,
+    "plakat_url": "https://image.tmdb.org/t/p/w500/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg"
+  },
+  {
+    "tytuł": "Skazani na Shawshank",
+    "rok": 1994,
+    "gatunek": "Dramat",
+    "ocena": 10,
+    "plakat_url": "https://image.tmdb.org/t/p/w500/vdVab7qrSoAhM8T66ms73Jda84.jpg"
+  },
+  {
+    "tytuł": "Mroczny Rycerz",
+    "rok": 2008,
+    "gatunek": "Akcja",
+    "ocena": 9,
+    "plakat_url": "https://image.tmdb.org/t/p/w500/DKMNG0vwM8EaP23D0bE6kMoab3d.jpg"
+  },
+  {
+    "tytuł": "Pulp Fiction",
+    "rok": 1994,
+    "gatunek": "Kryminał",
+    "ocena": 9,
+    "plakat_url": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
+  },
+  {
+    "tytuł": "Forrest Gump",
+    "rok": 1994,
+    "gatunek": "Komedia",
+    "ocena": 8,
+    "plakat_url": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+  }
+]
